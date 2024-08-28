@@ -14,7 +14,7 @@ Clone or Download the Repository
 
 bash
 Copy code
-git clone https://github.com/yourusername/expense-tracker.git
+git clone [https://github.com/yourusername/expense-tracker.git](https://github.com/Dr3am3ater1019/Expense-Tracker/blob/main/Expense_tracker.py)
 cd expense-tracker
 Or, if you prefer to download it as a ZIP file, extract it to your desired location.
 
